@@ -3,7 +3,7 @@
 Plugin Name: Trans Slate 
 Description: A customizable plugin to manage translations for Slovenian, English, German, and Croatian.
 Version: 1.0
-Author: Primož Frelih
+Author: Primož Frelih, Agital.si
 */
 
 // Add rewrite rules for language-specific URLs
